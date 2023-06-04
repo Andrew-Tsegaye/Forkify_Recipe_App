@@ -1,6 +1,6 @@
 # Forkify Recipe App
 
-![Forkify Logo](images/forkify-logo.png)
+![Forkify Logo](https://i.imgur.com/4aXQmYA.png)
 
 A web application for finding and saving your favorite recipes.
 
