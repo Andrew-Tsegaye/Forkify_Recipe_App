@@ -92,9 +92,9 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 ## Acknowledgements
 
-The Recipe API - [recipe-api.com](https://forkify-api.herokuapp.com/v2)
-The Spoonacular API - [spoonacular.com](https://spoonacular.com/food-api)
-[Font Awesome](https://fontawesome.com) - Icons and fonts
+- The Recipe API - [recipe-api.com](https://forkify-api.herokuapp.com/v2)
+- The Spoonacular API - [spoonacular.com](https://spoonacular.com/food-api)
+- [Font Awesome](https://fontawesome.com) - Icons and fonts
 
 ## Contact
 
